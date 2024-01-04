@@ -1,0 +1,3 @@
+//functions-framework
+azure-ai-formrecognizer
+google-cloud-storage
