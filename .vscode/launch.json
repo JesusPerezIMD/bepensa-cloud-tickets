@@ -4,7 +4,7 @@
         "name": "Deploy Cloud Function",
         "type": "cloudcode.cloudfunctions",
         "request": "launch",
-        "functionName": "function-hello-world",
+        "functionName": "bepensa-cloud-tickets",
         "gen": "GEN_2",
         "entryPoint": "hello_get"
       }
